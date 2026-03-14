@@ -5,7 +5,7 @@ let articlesData = [];
 const container = document.getElementById('articles-container');
 const paginationDiv = document.getElementById('pagination');
 
-fetch('pages/pagelist.json')
+fetch('pages/pagelist.json?v=' + Date.now())
     .then(response => {
         if (!response.ok) throw new Error('Не удалось загрузить список статей');
         return response.json();
