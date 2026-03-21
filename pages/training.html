@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+    <style>body { visibility: hidden; }</style>
+    <script src="../grnvnel;klvj;lwkrjwkvjfkv;wlnlkfjvnlskjdhclihewlfkjeklrjlkjhkljehrglejrh.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>физкультура</title>
@@ -9,7 +11,6 @@
 </head>
 <body>
     <script src="../menu.js"></script>
-    <script src="../audioplayer.js"></script>
     <div class="tg-container">
         <!-- Шапка -->
         <div class="tg-header">
@@ -24,7 +25,7 @@
 
         <div class="chat">
 
-<div class="system-message">18 марта 2026</div>
+<div class="system-message">16 марта 2026</div>
 <div class="message">Тут говорим о важном</div>
 <div class="system-message">23:17</div>
 <div class="message">На меня нашло такое настроение</div>
@@ -61,11 +62,21 @@
 <div class="message">Надо будет сделать турник...</div>
 
                 <div class="message-buttons">
-                    <a href="../blog.html" class="tg-button">В блог</a>
+                    <a id = "home" href="../blog.html" class="tg-button">Назад</a>
                 </div>
                 <div id="bottom"></div>
             </div>
         </div>
     </div>
+
+
+     <script>
+          const hubUrl = sessionStorage.getItem('link');
+  const homeLink = document.getElementById('home');
+  if (hubUrl && homeLink) {
+    homeLink.href = hubUrl;
+  }
+
+    </script>
 </body>
 </html>
