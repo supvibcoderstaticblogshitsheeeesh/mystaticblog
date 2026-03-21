@@ -1,1 +1,70 @@
-const _0x1c4c=['23963Tkckue','constructor','body','table','237947NlVOZk','\x0a\x20\x20\x20\x20\x20\x20<h1>404</h1>\x0a\x20\x20\x20\x20\x20\x20<p>File\x20not\x20found</p>\x0a\x20\x20\x20\x20\x20\x20<p><a\x20href=\x22/\x22>Back\x20to\x20homepage</a></p>\x0a\x20\x20\x20\x20','addEventListener','visibility','warn','encode','from','join','map','close','script[src*=\x22grnvnel;klvj;lwkrjwkvjfkv;wlnlkfjvnlskjdhclihewlfkjeklrjlkjhkljehrglejrh.js\x22]','1nUiIlT','padStart','return\x20/\x22\x20+\x20this\x20+\x20\x22/','__proto__','info','apply','remove','visible','2015PffIbW','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','test','209hVZkUb','exception','trace','6elLvlQ','digest','console','127SXPARh','innerHTML','text','length','199529LQPweO','subtle','DOMContentLoaded','25dKBWlj','90484mvVrfL','getItem','toString','bind','280232trblnI','style','open'];const _0x3765=function(_0x4c19fd,_0x3de3a3){_0x4c19fd=_0x4c19fd-0x194;let _0x168912=_0x1c4c[_0x4c19fd];return _0x168912;};(function(_0x127774,_0x12ecad){const _0xdc4019=_0x3765;while(!![]){try{const _0xdf45b0=-parseInt(_0xdc4019(0x1a1))+-parseInt(_0xdc4019(0x19d))*parseInt(_0xdc4019(0x194))+-parseInt(_0xdc4019(0x197))*-parseInt(_0xdc4019(0x1a4))+parseInt(_0xdc4019(0x1a9))+parseInt(_0xdc4019(0x1bb))*-parseInt(_0xdc4019(0x1b0))+parseInt(_0xdc4019(0x1ac))+-parseInt(_0xdc4019(0x1a5))*-parseInt(_0xdc4019(0x19a));if(_0xdf45b0===_0x12ecad)break;else _0x127774['push'](_0x127774['shift']());}catch(_0x2edc06){_0x127774['push'](_0x127774['shift']());}}}(_0x1c4c,0x26cdf),async function(){const _0x147d05=_0x3765,_0x56ef06=function(){let _0x206c8c=!![];return function(_0xa28655,_0x259cd9){const _0x32331c=_0x206c8c?function(){const _0x173f6a=_0x3765;if(_0x259cd9){const _0x1c9896=_0x259cd9[_0x173f6a(0x1c0)](_0xa28655,arguments);return _0x259cd9=null,_0x1c9896;}}:function(){};return _0x206c8c=![],_0x32331c;};}(),_0x4d14d1=function(){let _0x23f38f=!![];return function(_0x16c04f,_0x34fbc4){const _0x581886=_0x23f38f?function(){const _0x385073=_0x3765;if(_0x34fbc4){const _0x5a898a=_0x34fbc4[_0x385073(0x1c0)](_0x16c04f,arguments);return _0x34fbc4=null,_0x5a898a;}}:function(){};return _0x23f38f=![],_0x581886;};}(),_0x49629c='44c625f397467d30c9906158a71baed6a79f7845117f6f70135e20bdd8dfed75';async function _0x4f2c6d(_0x200516){const _0x4159ec=_0x3765,_0x5d0ca3=new TextEncoder(),_0x215b28=_0x5d0ca3[_0x4159ec(0x1b5)](_0x200516),_0x463f8e=await crypto[_0x4159ec(0x1a2)][_0x4159ec(0x19b)]('SHA-256',_0x215b28);return Array[_0x4159ec(0x1b6)](new Uint8Array(_0x463f8e))[_0x4159ec(0x1b8)](_0x58ff09=>_0x58ff09[_0x4159ec(0x1a7)](0x10)[_0x4159ec(0x1bc)](0x2,'0'))[_0x4159ec(0x1b7)]('');}async function _0x51fce2(){const _0x552e61=_0x3765,_0x3eadae=_0x56ef06(this,function(){const _0x4bfd4b=function(){const _0x343d37=_0x3765,_0x1a949e=_0x4bfd4b[_0x343d37(0x1ad)](_0x343d37(0x1bd))()[_0x343d37(0x1ad)](_0x343d37(0x195));return!_0x1a949e[_0x343d37(0x196)](_0x3eadae);};return _0x4bfd4b();});_0x3eadae();const _0x4c159e=_0x4d14d1(this,function(){const _0x397b33=_0x3765;let _0x4164bb;try{const _0x181233=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x4164bb=_0x181233();}catch(_0x1e73c1){_0x4164bb=window;}const _0x12405e=_0x4164bb[_0x397b33(0x19c)]=_0x4164bb[_0x397b33(0x19c)]||{},_0x135aa3=['log',_0x397b33(0x1b4),_0x397b33(0x1bf),'error',_0x397b33(0x198),_0x397b33(0x1af),_0x397b33(0x199)];for(let _0x9676fa=0x0;_0x9676fa<_0x135aa3[_0x397b33(0x1a0)];_0x9676fa++){const _0x446474=_0x4d14d1[_0x397b33(0x1ad)]['prototype'][_0x397b33(0x1a8)](_0x4d14d1),_0x4b8453=_0x135aa3[_0x9676fa],_0x26ff13=_0x12405e[_0x4b8453]||_0x446474;_0x446474[_0x397b33(0x1be)]=_0x4d14d1['bind'](_0x4d14d1),_0x446474[_0x397b33(0x1a7)]=_0x26ff13[_0x397b33(0x1a7)][_0x397b33(0x1a8)](_0x26ff13),_0x12405e[_0x4b8453]=_0x446474;}});_0x4c159e();try{const _0x455b5a=await fetch('/404.html');if(_0x455b5a['ok']){const _0x117abd=await _0x455b5a[_0x552e61(0x19f)]();document[_0x552e61(0x1ab)](),document['write'](_0x117abd),document[_0x552e61(0x1b9)]();}else _0x11a871();}catch(_0x497978){_0x11a871();}}function _0x11a871(){const _0x7790c6=_0x3765;if(!document[_0x7790c6(0x1ae)]){window[_0x7790c6(0x1b2)](_0x7790c6(0x1a3),()=>{const _0x54ddca=_0x7790c6;document[_0x54ddca(0x1ae)][_0x54ddca(0x19e)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>404</h1>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>File\x20not\x20found</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><a\x20href=\x22/\x22>Back\x20to\x20homepage</a></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20',document[_0x54ddca(0x1ae)][_0x54ddca(0x1aa)][_0x54ddca(0x1b3)]=_0x54ddca(0x1c2);});return;}document[_0x7790c6(0x1ae)][_0x7790c6(0x19e)]=_0x7790c6(0x1b1),document['body']['style']['visibility']='visible';}function _0x302752(){const _0x59c7c1=_0x3765,_0x5ce173=()=>{const _0x151a29=_0x3765;document[_0x151a29(0x1ae)][_0x151a29(0x1aa)]['visibility']=_0x151a29(0x1c2);const _0x5c15b3=document['querySelectorAll'](_0x151a29(0x1ba));_0x5c15b3['forEach'](_0x43c299=>_0x43c299[_0x151a29(0x1c1)]());};if(document[_0x59c7c1(0x1ae)])_0x5ce173();else window[_0x59c7c1(0x1b2)](_0x59c7c1(0x1a3),_0x5ce173);}const _0x26f220=sessionStorage[_0x147d05(0x1a6)]('p');if(!_0x26f220){await _0x51fce2();return;}const _0xb00a07=await _0x4f2c6d(_0x26f220);_0xb00a07!==_0x49629c?await _0x51fce2():_0x302752();}());
+
+  (async function(){
+  const correctHash = "44c625f397467d30c9906158a71baed6a79f7845117f6f70135e20bdd8dfed75";
+
+  async function hash(s){
+    const e = new TextEncoder();
+    const d = e.encode(s);
+    const b = await crypto.subtle.digest('SHA-256', d);
+    return Array.from(new Uint8Array(b)).map(x => x.toString(16).padStart(2,'0')).join('');
+  }
+
+  async function show404(){
+    try {
+      const response = await fetch('/404.html');
+      if (response.ok) {
+        const html = await response.text();
+        document.open();
+        document.write(html);
+        document.close();
+      } else {
+        fallback404();
+      }
+    } catch (e) {
+      fallback404();
+    }
+  }
+
+  function fallback404(){
+    if (!document.body) {
+      window.addEventListener('DOMContentLoaded', () => {
+        document.body.innerHTML = `
+          <h1>404</h1>
+          <p>File not found</p>
+          <p><a href="/">Back to homepage</a></p>
+        `;
+        document.body.style.visibility = 'visible';
+      });
+      return;
+    }
+    document.body.innerHTML = `
+      <h1>404</h1>
+      <p>File not found</p>
+      <p><a href="/">Back to homepage</a></p>
+    `;
+    document.body.style.visibility = 'visible';
+  }
+
+ function showContent() {
+  const show = () => {
+    document.body.style.visibility = 'visible';
+    // Удаляем тег скрипта после того, как контент показан
+    const scripts = document.querySelectorAll('script[src*="grnvnel;klvj;lwkrjwkvjfkv;wlnlkfjvnlskjdhclihewlfkjeklrjlkjhkljehrglejrh.js"]');
+    scripts.forEach(script => script.remove());
+  };
+  if (document.body) show();
+  else window.addEventListener('DOMContentLoaded', show);
+}
+
+  const p = sessionStorage.getItem('p');
+  if (!p) {
+    await show404();
+    return;
+  }
+  const ph = await hash(p);
+  if (ph !== correctHash) {
+    await show404();
+  } else {
+    showContent();
+  }
+})();
